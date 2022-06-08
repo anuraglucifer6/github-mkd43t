@@ -4,15 +4,6 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 import { stationData } from './stationData';
-import A from './icons/A.png';
-import B from './icons/B.png';
-import C from './icons/C.png';
-import D from './icons/D.png';
-import E from './icons/E.png';
-import F from './icons/F.png';
-import G from './icons/G.png';
-import H from './icons/H.png';
-import I from './icons/I.png';
 
 const mapIcons = [
   'https://drive.google.com/uc?id=1HfgV55iACYM579BlyRQGejjN9o8j4LfM',
